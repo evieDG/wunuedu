@@ -1,0 +1,8 @@
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\obj\Debug\2Course_1Lab_32V.csproj.AssemblyReference.cache
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\obj\Debug\2Course_1Lab_32V.csproj.SuggestedBindingRedirects.cache
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\obj\Debug\2Course_1Lab_32V.csproj.CoreCompileInputs.cache
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\bin\Debug\2Course_1Lab_32V.exe.config
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\bin\Debug\2Course_1Lab_32V.exe
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\bin\Debug\2Course_1Lab_32V.pdb
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\obj\Debug\2Course_1Lab_32V.exe
+C:\Users\komp\source\repos\2Course_1Lab_32V\2Course_1Lab_32V\obj\Debug\2Course_1Lab_32V.pdb
